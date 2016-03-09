@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Crashbanditohotography ]]></title>
         <description><![CDATA[Crashbanditohotography ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/crashbanditohotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 13:43:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 13:54:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/crashbanditohotography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tea time in Little India, Singapore.]]></title>
+            <description><![CDATA[<article><h1>Tea time in Little India, Singapore.</h1><p>Drinking tea in the market while taking shelter from the rain in Little India, Singapore. | January 2016 #streetphotography #streetphotographers #streetart #streetstyle #street #streethunters #photooftheday #document #dailylife #travelphotography #canadianphotographer #canadianabroad #streetphotographer #streetphotographers #streetphoto #streetphotos #india #singapore #littleindia #asia #igersasia #beautiful #tea</p><img src="https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12407371_955655254523981_842097266_n.jpg?ig_cache_key=MTE2NzEyMzQyNTA5MzAxNzg3Ng%3D%3D.2"></article>]]></description>
+            <link>https://www.instagram.com/p/BAydJJJtOEU/</link>
+            <guid isPermaLink="false">86e68c5e-e4cd-4dc5-a687-281ef2ed3438</guid>
+            <pubDate>Wed, 09 Mar 2016 13:52:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Winter surfing at Lawrencetown Beach, Nova Scotia, Canada.]]></title>
-            <description><![CDATA[<article><h1>Winter surfing at Lawrencetown Beach, Nova Scotia, Canada.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a286ca9-fcab-4754-95e2-a1a26c5ab162.png"></article>]]></description>
-            <link>undefinedwinter-surfing-at-lawrencetown-beach-nova-scotia-canada/index.html</link>
+            <description><![CDATA[<article><h1>Winter surfing at Lawrencetown Beach, Nova Scotia, Canada.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3356202c5fafae82b4badfb2957339d2e83be990.png"></article>]]></description>
+            <link>https://thegrid.ai/crashbanditohotography/winter-surfing-at-lawrencetown-beach-nova-scotia-canada/index.html</link>
             <guid isPermaLink="false">b7790e10-a450-4a94-826a-9cfcdbb5a3fe</guid>
             <pubDate>Wed, 09 Mar 2016 13:42:07 GMT</pubDate>
         </item>
