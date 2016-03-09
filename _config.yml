@@ -1,14 +1,26 @@
-layout_spectrum: 0.234767
-typography_spectrum: 0.8343582
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.5215054
+  saturation: 0.1774193
   brandStrength: 0.153646
-  lightness: 0.7634408
-  rhythmicContrast: 0.811828
+  lightness: 0.2724014
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+  rhythmicContrast: 0.218638
+typography_spectrum: 0.8343582
+layout_spectrum: 0
 name: 'Crashbanditohotography '
