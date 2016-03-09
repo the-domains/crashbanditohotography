@@ -1,7 +1,7 @@
-name: 'Crashbanditohotography '
+name: 'Crashbanditphotography '
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.8343582
+layout_spectrum: 0.49433
+typography_spectrum: 0.67651
 collections:
   - index:
       path: /
