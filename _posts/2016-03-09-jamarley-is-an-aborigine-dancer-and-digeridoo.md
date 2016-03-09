@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Jamarley, is an aborigine dancer and digeridoo\_"
-datePublished: '2016-03-09T21:10:17.573Z'
-dateModified: '2016-03-09T21:09:56.379Z'
+description: 'Sydney, New South Wales, Australia'
+datePublished: '2016-03-09T21:28:17.676Z'
+dateModified: '2016-03-09T21:21:02.733Z'
 title: ''
 author: []
 authors: []
@@ -25,3 +25,4 @@ _type: Article
 Sydney, New South Wales, Australia
 
 Jamarley, is an aborigine dancer and didgeridoo musician.  I ran into him at the ferry terminal, where he was helping some friends.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/963fcb63-3061-4e30-a84e-6936429d25f1.jpg)
