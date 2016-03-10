@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'A surfer catches a wave at Lawrencetown Beach, Nova Scotia, Canada.'
-datePublished: '2016-03-10T02:07:29.557Z'
-dateModified: '2016-03-10T02:06:53.192Z'
+description: 'Lawrencetown Beach, Nova Scotia, Canada'
+datePublished: '2016-03-10T14:47:00.099Z'
+dateModified: '2016-03-10T14:46:59.587Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-09-lawrencetown-beach-nova-scotia-canada.md
@@ -26,6 +26,7 @@ _type: Article
 
 Lawrencetown Beach, Nova Scotia, Canada
 
-Cold water surfing isn't for everyone, but ['ya gotta do what ya gotta do'][0].
+Cold water surfing isn't for everyone, but ['][0][you gotta do what you gotta do][1]['][0].
 
 [0]: null
+[1]: https://www.youtube.com/watch?v=PMHY7b75VBI
