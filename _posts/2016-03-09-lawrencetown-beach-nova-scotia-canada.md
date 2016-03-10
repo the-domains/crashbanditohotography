@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Lawrencetown Beach, Nova Scotia, Canada.'
-datePublished: '2016-03-09T22:26:22.469Z'
-dateModified: '2016-03-09T22:24:44.658Z'
+description: 'A surfer catches a wave at Lawrencetown Beach, Nova Scotia, Canada.'
+datePublished: '2016-03-10T02:07:29.557Z'
+dateModified: '2016-03-10T02:06:53.192Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-09-lawrencetown-beach-nova-scotia-canada.md
@@ -22,6 +22,10 @@ url: lawrencetown-beach-nova-scotia-canada/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfb31275-2b01-48c3-b840-3300b6839ca4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2911321dff538e3c3f335521f37f5682ca9efeba.jpg)
 
-A surfer catches a wave at Lawrencetown Beach, Nova Scotia, Canada.
+Lawrencetown Beach, Nova Scotia, Canada
+
+Cold water surfing isn't for everyone, but ['ya gotta do what ya gotta do'][0].
+
+[0]: null
