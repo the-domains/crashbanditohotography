@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Sydney, New South Wales, Australia'
-datePublished: '2016-03-14T21:52:26.540Z'
-dateModified: '2016-03-14T21:51:07.279Z'
+datePublished: '2016-03-14T23:22:40.534Z'
+dateModified: '2016-03-14T23:22:40.128Z'
 title: ''
 author: []
 authors: []
@@ -24,4 +24,6 @@ _type: Article
 ---
 Sydney, New South Wales, Australia
 
-Ted Addic, a young rapper
+Ted Addic is a rap artist from Marrickville in Sydney's Inner West. With
+a raw uncensored style his music is an attempt to spread the Inner West
+Sound of Sydney to a worldwide audience.
