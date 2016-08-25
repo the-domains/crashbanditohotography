@@ -4,7 +4,7 @@
         <description><![CDATA[Crash Bandit Photography]]></description>
         <link>http://www.crashbanditphotography.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 19:36:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 19:36:51 GMT</lastBuildDate>
         <atom:link href="http://www.crashbanditphotography.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Travel Photography]]></title>
@@ -47,13 +47,6 @@
             <link>http://www.crashbanditphotography.com/lawrencetown-beach-nova-scotia-canada/index.html</link>
             <guid isPermaLink="false">58af4bd4-dd7d-4008-9029-42f105bd5e20</guid>
             <pubDate>Thu, 10 Mar 2016 14:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Sydney, New South Wales, Australia</p>]]></description>
-            <link>http://www.crashbanditphotography.com/c0d6ee4b-897f-4f2f-9962-2f74f59ae74a/index.html</link>
-            <guid isPermaLink="false">c0d6ee4b-897f-4f2f-9962-2f74f59ae74a</guid>
-            <pubDate>Wed, 09 Mar 2016 21:27:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
