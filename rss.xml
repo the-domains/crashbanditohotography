@@ -4,7 +4,7 @@
         <description><![CDATA[Crash Bandit Photography]]></description>
         <link>http://www.crashbanditphotography.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 20:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 20:04:29 GMT</lastBuildDate>
         <atom:link href="http://www.crashbanditphotography.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Travel Photography]]></title>
@@ -19,13 +19,6 @@
             <link>http://www.crashbanditphotography.com/aee96235-f07c-4d9a-a0de-c225463ec8dd/index.html</link>
             <guid isPermaLink="false">aee96235-f07c-4d9a-a0de-c225463ec8dd</guid>
             <pubDate>Thu, 25 Aug 2016 19:34:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ ]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/202f6a65-2e50-48dd-ba4c-b194058118ad.jpg">]]></description>
-            <link>http://www.crashbanditphotography.com/sydney-new-south-wales-australia/index.html</link>
-            <guid isPermaLink="false">fc5482ef-64a2-46d6-a712-3db7d6a0c916</guid>
-            <pubDate>Thu, 25 Aug 2016 19:33:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
