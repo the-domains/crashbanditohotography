@@ -1,41 +1,41 @@
-title: Crash Bandit Photography
-purpose: []
+name: 'Crashbanditphotography '
+favicon: null
+layout_spectrum: 0.95246
+typography_spectrum: 0.89057
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0
-  brandStrength: 0
-  lightness: 0.8440861
-  brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#2f2f2f'
-    - '#afafaf'
-    - '#868686'
-  rhythmicContrast: 0.6469534
+    permalink:
+      path: '/:title/'
+title: Crash Bandit Photography
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-favicon: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-name: 'Crashbanditphotography '
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.67651
-layout_spectrum: 0
+color:
+  brandColors:
+    - '#65f6fd'
+    - '#231f20'
+    - '#ffffff'
+    - '#54c1c7'
+    - '#d5d4d5'
+  brandStrength: 1
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0.25
+purpose: []
