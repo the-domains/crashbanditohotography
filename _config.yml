@@ -1,7 +1,7 @@
 name: 'Crashbanditphotography '
 favicon: null
-layout_spectrum: 0.22423
-typography_spectrum: 0.67651
+layout_spectrum: 0.95246
+typography_spectrum: 0.48553
 collections:
   - index:
       path: /
@@ -34,8 +34,8 @@ color:
     - '#2f2f2f'
     - '#afafaf'
     - '#868686'
-  brandStrength: 0
-  lightness: 0.1875
-  saturation: 0.625
+  brandStrength: 1
+  lightness: 0.8125
+  saturation: 0.375
   rhythmicContrast: 0.5
 purpose: []
